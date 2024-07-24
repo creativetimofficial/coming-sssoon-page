@@ -18,6 +18,12 @@ The next step is getting the look you want to the page. We added custom filters 
 
 IMPORTANT - If you want to integrate a third party service for register emails we've made a tutorial here:  http://blog.creative-tim.com/web-development/set-mailchimp-custom-coming-soon-page/
 
+## Deploy
+
+:rocket: You can deploy your own version of the template to Genezio with one click:
+
+[![Deploy to Genezio](https://raw.githubusercontent.com/Genez-io/graphics/main/svg/deploy-button.svg)](https://app.genez.io/start/deploy?repository=https://github.com/creativetimofficial/coming-sssoon-page&utm_source=github&utm_medium=referral&utm_campaign=github-creativetim&utm_term=deploy-project&utm_content=button-head)
+
 ## Links:
 
 + [Live Preview](http://demos.creative-tim.com/coming-sssoon-demo-image-background)
